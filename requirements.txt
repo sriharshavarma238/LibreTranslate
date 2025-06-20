@@ -6,7 +6,6 @@ Flask-Babel==3.1.0
 Flask-Session==0.4.0
 waitress==2.1.2
 requests==2.31.0
-redis==4.4.4
 prometheus-client==0.15.0
-polib==1.1.1
 packaging==23.1
+polib==1.1.1
